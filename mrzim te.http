@@ -1,0 +1,6 @@
+@mrzim_te_HostAddress = http://localhost:5010
+
+GET {{mrzim_te_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
